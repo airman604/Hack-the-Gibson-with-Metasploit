@@ -9,7 +9,7 @@ This is a hands on workshop and you should come prepared to be able to participa
 
 * A laptop with VirtualBox or VMWare installed
 * A Virtual Machine with the latest Kali installed. This will be the 'Hacker' box. Please make sure your Kali VM works before the workshop
-* Custom Vulnerable Virtual Machine that can be downloaded from <virtual machine link>
+* Custom Vulnerable Virtual Machine that can be downloaded from [here]()
 
 ## Reading Materials
 
