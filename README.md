@@ -10,6 +10,8 @@ This is a hands on workshop and you should come prepared to be able to participa
 * A laptop with VirtualBox installed
 * A Virtual Machine with the latest Kali installed. This will be the 'Hacker' box. Please make sure your Kali VM works before the workshop
 * Custom Vulnerable Virtual Machine that can be downloaded from [here]()
+* Working knowledge in Linux
+* Working knowledge in VirtualBox
 
 ## Setup Notes
 
@@ -29,3 +31,4 @@ This is a hands on workshop and you should come prepared to be able to participa
 
 ### Notes
 * Although the authors of this workshop have tested the lab in VirtualBox, the attendees must be prepared to troubleshoot their virtual environment incase there are issues. Help will be provided.
+* There might not be any internet connectivity during the workshop. Please download the necessary applications and files before the workshop. 
