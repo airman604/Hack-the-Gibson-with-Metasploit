@@ -18,7 +18,7 @@ This is a hands on workshop and you should come prepared to be able to participa
 * Make sure the Kali Virtual Machine is up-to-date by running the following commands:
     ```
     sudo apt-get update
-    sudo apt-get upgrade
+    sudo apt-get full-upgrade
     ```
 * For least amount of networking issues, please configure both the virtual machines to use 'NAT Network'. There are many online resources on how to configure 'NAT Network' on VirtualBox. 
   Here is one such resource- https://blog.pythian.com/test-lab-using-virtualbox-nat-networking/
