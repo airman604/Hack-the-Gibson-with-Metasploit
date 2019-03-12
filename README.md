@@ -7,9 +7,19 @@ We will also cover Metasploit for privilege escalation and pivoting.
 
 This is a hands on workshop and you should come prepared to be able to participate. You will need:
 
-* A laptop with VirtualBox or VMWare installed
+* A laptop with VirtualBox installed
 * A Virtual Machine with the latest Kali installed. This will be the 'Hacker' box. Please make sure your Kali VM works before the workshop
 * Custom Vulnerable Virtual Machine that can be downloaded from [here]()
+
+## Setup Notes
+
+* Make sure the Kali Virtual Machine is up-to-date by running the following commands:
+    ```
+    sudo apt-get update
+    sudo apt-get upgrade
+    ```
+* For least amount of networking issues, please configure both the virtual machines to use 'NAT Network'. There are many online resources on how to configure 'NAT Network' on VirtualBox. 
+  Here is one such resource- https://blog.pythian.com/test-lab-using-virtualbox-nat-networking/
 
 ## Reading Materials
 
@@ -18,4 +28,4 @@ This is a hands on workshop and you should come prepared to be able to participa
 
 
 ### Notes
-* Although the authors of this workshop have tested the lab in both VirtualBox and VMWare, the attendees must be prepared to troubleshoot their virtual environment incase there are issues. Help will be provided.
+* Although the authors of this workshop have tested the lab in VirtualBox, the attendees must be prepared to troubleshoot their virtual environment incase there are issues. Help will be provided.
