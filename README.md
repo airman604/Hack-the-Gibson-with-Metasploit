@@ -31,4 +31,4 @@ This is a hands on workshop and you should come prepared to be able to participa
 
 ### Notes
 * Although the authors of this workshop have tested the lab in VirtualBox, the attendees must be prepared to troubleshoot their virtual environment incase there are issues. Help will be provided.
-* There might poor or absence of internet connectivity during the workshop. Please download the necessary applications and files before the workshop. 
+* There might poor or absence of Internet connectivity during the workshop. Please download the necessary applications and files before the workshop. 
