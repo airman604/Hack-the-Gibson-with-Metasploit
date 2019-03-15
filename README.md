@@ -1,4 +1,4 @@
-# Welcome To BSides2019 Hack the Gibson with Metasploit Workshop!
+# Welcome To BSides Vancouver 2019 *Hack the Gibson with Metasploit* Workshop!
 
 This workshop will teach what Metasploit is and its modules. We will then proceed to scanning using Metasploit, dropping payloads and popping a Meterpreter shell, all of this using a custom made vulnerable virtual machine just for this workshop.
 We will also cover Metasploit for privilege escalation and pivoting. 
